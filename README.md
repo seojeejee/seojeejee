@@ -6,6 +6,15 @@
 
 현실의 물리 제약과 운영 맥락을 모델에 연결하고, 실험 결과를 재현 가능한 코드와 제품형 데모로 완성하는 데 관심이 있습니다.
 
+_Updated through 2026-10-09_
+
+## Recent progress
+
+- 해양 배터리 SOC 연구를 단일 TCN 실험에서 **GRU, TCN, Tiny Transformer, CNN-Attention-LSTM** 비교 파이프라인으로 확장했습니다.
+- 모델 선택용 validation-only 실험을 5개 random seed로 반복했으며, GRU가 평균 MAE **0.613%p**로 가장 낮았습니다. 이 수치는 test 결과가 아닌 모델 선택 단계의 검증 결과입니다.
+- 공개 데이터의 물리 특성을 이용해 약 **271만 행**의 해양 프록시 시계열을 재생성하고, 원천 시퀀스 분리와 물리 범위·제약 조건을 점검했습니다.
+- 학회 논문과 초록을 정리하면서 결과의 범위를 공개 데이터 기반 프록시 내부 검증으로 제한했습니다. 실제 선박 계측 데이터에 대한 외부 검증은 다음 단계입니다.
+
 ## Featured projects
 
 ### [Physics-Guided Marine Battery SOC](https://github.com/seojeejee/physics-guided-marine-battery-soc)
@@ -15,9 +24,10 @@
 - GPU Temporal Convolutional Network와 physics-guided augmentation
 - 해양 프록시 MAE **1.808%p → 1.024%p**
 - 5개 random seed에서 모두 개선
+- GRU·TCN·Tiny Transformer·CNN-Attention-LSTM의 5-seed validation 비교
 - 데이터 누수 방지 split, constraint audit, Streamlit dashboard
 
-`Python` `PyTorch` `Time Series` `Battery AI` `Scientific ML`
+`Python` `PyTorch` `GRU` `TCN` `Time Series` `Battery AI` `Scientific ML`
 
 ### [Jetson Safety-Zone Intrusion Detection](https://github.com/seojeejee/jetson-safety-zone-intrusion-detection)
 
@@ -57,4 +67,4 @@ YOLO11 객체 탐지와 다각형 안전구역 판정을 결합한 Jetson 엣지
 
 ## Current focus
 
-Applied AI, time-series modeling, edge deployment, and trustworthy decision-support systems.
+Marine battery SOC modeling, multi-seed model comparison, edge deployment, and trustworthy decision-support systems.
