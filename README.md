@@ -58,3 +58,9 @@ YOLO11 객체 탐지와 다각형 안전구역 판정을 결합한 Jetson 엣지
 ## Current Focus
 
 Marine battery SOC modeling, multi-seed model comparison, edge deployment, and trustworthy AI systems.
+
+## Contact
+
+AI/ML, Edge AI, Battery Intelligence 분야의 인턴십, 프로젝트 협업 및 채용 제안을 환영합니다.
+
+- **Email:** [alflwlgp85@naver.com](mailto:alflwlgp85@naver.com)
