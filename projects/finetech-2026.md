@@ -68,4 +68,9 @@
   <sub>전시 현장 Team CLAP 팀 사진</sub>
 </p>
 
-![휴머노이드 센서 장갑용 소재와 손 모형 전시](../assets/finetech-2026-material-demo.jpeg)
+<p align="center">
+  <a href="../assets/finetech-2026-material-demo.jpeg"><img src="../assets/finetech-2026-material-demo.jpeg" width="640" alt="FINETECH JAPAN 2026 현장에 전시한 소재 시료와 로봇 손 적용을 설명하는 손 모형" /></a><br />
+  <sub>실제 전시한 소재 시료와 로봇 손 적용 모형</sub>
+</p>
+
+FINETECH JAPAN 2026 현장에서 소재 시료와 손 모형을 함께 전시한 모습입니다. 휴머노이드 로봇용 유연 센서 소재라는 연구 주제를 로봇 손에 적용하는 센서 글로브의 형태와 연결해 보여주었습니다. 포스터에서 설명한 유기전자 소재와 잉크젯 공정의 적용 방향을 실물 시료와 모형으로 전달한 전시 구성입니다.
