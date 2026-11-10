@@ -54,23 +54,28 @@
 
 ## 전시 자료
 
-<a href="../assets/finetech-2026-poster.png"><img src="../assets/finetech-2026-poster.png" width="500" alt="Team CLAP 전시 포스터" /></a>
+포스터와 현장 사진을 통해 연구 주제, 전시 구성, 팀 참여 기록을 확인할 수 있습니다. 각 이미지를 클릭하면 원본 크기로 볼 수 있습니다.
 
-전시 포스터는 연락처를 가린 공개용 사본입니다. 포스터의 FoD와 μ-LED 이미지는 ㈜클랩의 OTFT 응용 데모입니다.
+### 01. 연구 포스터
 
-<p align="center">
-  <a href="../assets/finetech-2026-booth-overview.jpeg"><img src="../assets/finetech-2026-booth-overview.jpeg" width="640" alt="FINETECH JAPAN 2026 호서대학교 공동 부스 전경" /></a><br />
-  <sub>호서대학교 공동 전시 부스</sub>
-</p>
+<a href="../assets/finetech-2026-poster.png"><img src="../assets/finetech-2026-poster.png" width="640" alt="휴머노이드 로봇용 유연 센서 소재 연구를 소개한 Team CLAP 전시 포스터" /></a>
 
-<p align="center">
-  <a href="../assets/finetech-2026-team-and-posters.png"><img src="../assets/finetech-2026-team-and-posters.png" width="640" alt="FINETECH JAPAN 2026 부스에서 포스터와 안내물을 든 Team CLAP" /></a><br />
-  <sub>전시 현장 Team CLAP 팀 사진</sub>
-</p>
+유기전자 소재와 잉크젯 공정을 활용한 로봇 센서 적용 방향을 소개한 영문 포스터입니다. 연락처를 가린 공개용 사본이며, 하단의 FoD와 μ-LED 이미지는 ㈜클랩의 OTFT 응용 데모입니다.
 
-<p align="center">
-  <a href="../assets/finetech-2026-material-demo.jpeg"><img src="../assets/finetech-2026-material-demo.jpeg" width="640" alt="FINETECH JAPAN 2026 현장에 전시한 소재 시료와 로봇 손 적용을 설명하는 손 모형" /></a><br />
-  <sub>실제 전시한 소재 시료와 로봇 손 적용 모형</sub>
-</p>
+### 02. 공동 전시 부스
+
+<a href="../assets/finetech-2026-booth-overview.jpeg"><img src="../assets/finetech-2026-booth-overview.jpeg" width="640" alt="FINETECH JAPAN 2026 호서대학교 공동 전시 부스 전경" /></a>
+
+FINETECH JAPAN 2026 호서대학교 공동 부스 전경입니다. 연구 포스터와 전시물이 배치된 현장 구성을 보여줍니다.
+
+### 03. Team CLAP 참여 기록
+
+<a href="../assets/finetech-2026-team-and-posters.png"><img src="../assets/finetech-2026-team-and-posters.png" width="640" alt="전시 부스에서 포스터와 안내물을 든 Team CLAP 팀원들" /></a>
+
+전시 부스에서 포스터와 안내물을 들고 촬영한 Team CLAP 팀 사진입니다. 호서대학교와 ㈜클랩의 산학 프로젝트 및 전시 참여 기록입니다.
+
+### 04. 소재 시료와 적용 모형
+
+<a href="../assets/finetech-2026-material-demo.jpeg"><img src="../assets/finetech-2026-material-demo.jpeg" width="640" alt="실제 전시한 소재 시료와 로봇 손 적용을 설명하는 손 모형" /></a>
 
 FINETECH JAPAN 2026 현장에서 소재 시료와 손 모형을 함께 전시한 모습입니다. 휴머노이드 로봇용 유연 센서 소재라는 연구 주제를 로봇 손에 적용하는 센서 글로브의 형태와 연결해 보여주었습니다. 포스터에서 설명한 유기전자 소재와 잉크젯 공정의 적용 방향을 실물 시료와 모형으로 전달한 전시 구성입니다.

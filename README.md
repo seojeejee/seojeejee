@@ -51,20 +51,13 @@ YOLO11 객체 탐지와 다각형 안전구역 판정을 결합한 Jetson 엣지
 - 잉크 점도·표면장력, 액적 간격, 기판 젖음성·건조 조건이 박막 균일도와 센서 재현성에 미치는 영향 검토
 - 전극·유전체·유기반도체층의 접착과 수분 유입, 반복 굽힘 시 균열·배선 문제를 실제 착용 조건에 맞춰 분석
 
-<p>
-  <a href="./assets/finetech-2026-poster.png"><img src="./assets/finetech-2026-poster.png" width="260" alt="FINETECH JAPAN 2026 Team CLAP 전시 포스터" /></a>
-</p>
+<a href="./projects/finetech-2026.md#전시-자료"><img src="./assets/finetech-2026-team-and-posters.png" width="640" alt="FINETECH JAPAN 2026 전시 부스에서 포스터와 안내물을 든 Team CLAP" /></a>
 
-<p align="center">
-  <a href="./assets/finetech-2026-team-and-posters.png"><img src="./assets/finetech-2026-team-and-posters.png" width="640" alt="FINETECH JAPAN 2026 전시 부스에서 포스터와 안내물을 든 Team CLAP" /></a><br />
-  <sub>전시 현장 Team CLAP 팀 사진</sub>
-</p>
+**FINETECH JAPAN 2026 · Team CLAP 전시 참여** — 연구 포스터, 공동 부스, 팀 사진, 소재 시료와 적용 모형을 상세 페이지에 정리했습니다.
 
-전시 포스터는 연락처를 가린 사본입니다. [호서대학교 공동 부스 전경](./assets/finetech-2026-booth-overview.jpeg)과 [센서 장갑용 소재 전시 사진](./assets/finetech-2026-material-demo.jpeg)도 함께 담았습니다. 포스터 하단에는 ㈜클랩의 OTFT 응용 데모가 실려 있습니다.
+멘토링과 발표 준비에서 DPP 유기반도체의 전하 수송, 잉크젯 박막 형성, SBS 절연체와 아자이드 가교를 학습했습니다. 관련 참고 논문과 실험 설계 질문도 함께 정리했습니다.
 
-[연구 내용과 전시 참여 기록 자세히 보기](./projects/finetech-2026.md)
-
-학회 준비 과정에서 DPP 유기반도체의 전하 수송, 잉크젯 박막 형성, SBS 절연체와 아자이드 가교 관련 선행연구를 함께 검토하고, 소재·공정 이해를 실험 설계 질문으로 연결했습니다. [문헌 조사와 주제별 요약](./projects/finetech-2026.md#문헌-조사와-학회-준비)
+[연구 내용과 문헌 요약](./projects/finetech-2026.md) · [전시 자료 4종](./projects/finetech-2026.md#전시-자료) · [포스터 원본 보기](./assets/finetech-2026-poster.png)
 
 `Organic Electronics` `Inkjet Printing` `Flexible Sensors` `Industry-Academia Collaboration`
 
