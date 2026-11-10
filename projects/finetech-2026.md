@@ -58,8 +58,14 @@
 
 전시 포스터는 연락처를 가린 공개용 사본입니다. 포스터의 FoD와 μ-LED 이미지는 ㈜클랩의 OTFT 응용 데모입니다.
 
-| 호서대학교 전시 부스 | 전시 현장 팀 사진 |
-| --- | --- |
-| ![FINETECH JAPAN 2026 호서대학교 공동 부스 전경](../assets/finetech-2026-booth-overview.jpeg) | ![FINETECH JAPAN 2026 부스에서 포스터와 안내물을 든 Team CLAP](../assets/finetech-2026-team-and-posters.png) |
+<p align="center">
+  <a href="../assets/finetech-2026-booth-overview.jpeg"><img src="../assets/finetech-2026-booth-overview.jpeg" width="640" alt="FINETECH JAPAN 2026 호서대학교 공동 부스 전경" /></a><br />
+  <sub>호서대학교 공동 전시 부스</sub>
+</p>
+
+<p align="center">
+  <a href="../assets/finetech-2026-team-and-posters.png"><img src="../assets/finetech-2026-team-and-posters.png" width="640" alt="FINETECH JAPAN 2026 부스에서 포스터와 안내물을 든 Team CLAP" /></a><br />
+  <sub>전시 현장 Team CLAP 팀 사진</sub>
+</p>
 
 ![휴머노이드 센서 장갑용 소재와 손 모형 전시](../assets/finetech-2026-material-demo.jpeg)
