@@ -38,7 +38,9 @@
 
 | 호서대학교 전시 부스 | 전시 현장 팀 사진 |
 | --- | --- |
-| ![FINETECH JAPAN 2026 호서대학교 전시 부스](../assets/finetech-2026-booth.png) | ![FINETECH JAPAN 2026 전시 현장의 Team CLAP](../assets/finetech-2026-team.png) |
+| ![FINETECH JAPAN 2026 호서대학교 공동 부스 전경](../assets/finetech-2026-booth-overview.jpeg) | ![FINETECH JAPAN 2026 부스에서 포스터와 안내물을 든 Team CLAP](../assets/finetech-2026-team-and-posters.png) |
+
+![휴머노이드 센서 장갑용 소재와 손 모형 전시](../assets/finetech-2026-material-demo.jpeg)
 
 ## 검증 범위
 

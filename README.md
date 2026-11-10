@@ -53,10 +53,10 @@ YOLO11 객체 탐지와 다각형 안전구역 판정을 결합한 Jetson 엣지
 
 <p>
   <a href="./assets/finetech-2026-poster.png"><img src="./assets/finetech-2026-poster.png" width="260" alt="FINETECH JAPAN 2026 Team CLAP 전시 포스터" /></a>
-  <img src="./assets/finetech-2026-team.png" width="520" alt="FINETECH JAPAN 2026 호서대학교 전시 현장의 팀 사진" />
+  <img src="./assets/finetech-2026-team-and-posters.png" width="520" alt="FINETECH JAPAN 2026 전시 부스에서 포스터와 안내물을 든 Team CLAP" />
 </p>
 
-전시 포스터는 연락처를 가린 사본입니다. [호서대학교 전시 부스 사진](./assets/finetech-2026-booth.png)도 참관 보고서에서 확인할 수 있습니다. 포스터 하단에는 ㈜클랩의 OTFT 응용 데모가 함께 실려 있습니다.
+전시 포스터는 연락처를 가린 사본입니다. [호서대학교 공동 부스 전경](./assets/finetech-2026-booth-overview.jpeg)과 [센서 장갑용 소재 전시 사진](./assets/finetech-2026-material-demo.jpeg)도 함께 담았습니다. 포스터 하단에는 ㈜클랩의 OTFT 응용 데모가 실려 있습니다.
 
 [연구 내용과 전시 참여 기록 자세히 보기](./projects/finetech-2026.md)
 
