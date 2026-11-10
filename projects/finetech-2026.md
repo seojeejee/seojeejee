@@ -41,7 +41,3 @@
 | ![FINETECH JAPAN 2026 호서대학교 공동 부스 전경](../assets/finetech-2026-booth-overview.jpeg) | ![FINETECH JAPAN 2026 부스에서 포스터와 안내물을 든 Team CLAP](../assets/finetech-2026-team-and-posters.png) |
 
 ![휴머노이드 센서 장갑용 소재와 손 모형 전시](../assets/finetech-2026-material-demo.jpeg)
-
-## 검증 범위
-
-이 기록은 프로젝트 포스터, 서지혜의 FINETECH JAPAN 참관 보고서, ㈜클랩 멘토링 요약본을 바탕으로 작성했습니다. 팀의 실제 TFT 소자 제작과 센서 성능 측정은 멘토링 요약본에서 후속 과제로 남아 있습니다. 따라서 이 페이지의 공정 효과와 센서 성능은 실험 수치가 아닌 설계·검토 내용으로 기술했습니다.
