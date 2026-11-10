@@ -42,11 +42,22 @@ YOLO11 객체 탐지와 다각형 안전구역 판정을 결합한 Jetson 엣지
 
 `Python` `JavaScript` `GeoJSON` `SQLite` `Streamlit`
 
+### FINETECH JAPAN 2026 · Team CLAP
+
+호서대학교와 ㈜클랩의 산학 프로젝트 팀원으로 참여했습니다. FINETECH JAPAN 2026 전시 포스터는 휴머노이드 로봇용 손가락 센서 글로브를 목표로, 유연 유기전자 소재를 잉크젯 공정에 적용하는 방향을 소개합니다.
+
+- 필요한 위치에만 소재를 인쇄하는 **마스크 없는 직접 인쇄**와 재료 사용량 절감 개념 제시
+- 포토레지스트·식각액 접촉을 피하여 유기반도체 **계면 손상을 줄이는** 공정 설계 방향 정리
+- 반도체·절연체·전도체용 유연 유기 소재와 진공·용액 혼합 공정의 응용 가능성 소개
+
+`Organic Electronics` `Inkjet Printing` `Flexible Sensors` `Industry-Academia Collaboration`
+
 ## Skills
 
 - **AI and Machine Learning:** PyTorch, YOLO, GRU, TCN, model evaluation, physics-guided learning
 - **Edge and Computer Vision:** TensorRT, Jetson, OpenCV, real-time inference
 - **Data and Backend:** NumPy, pandas, scikit-learn, REST API, SQLite, GeoJSON
+- **Interdisciplinary R&D:** organic electronics, inkjet printing, flexible sensor materials
 - **Delivery:** Streamlit, reproducible experiments, technical documentation
 
 ## Engineering Approach
