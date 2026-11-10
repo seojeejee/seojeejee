@@ -30,6 +30,28 @@
 - FINETECH JAPAN에서 소재가 제품으로 이어지려면 공정 온도·압력·점도·냉각·건조 조건과 제작 이력을 함께 관리해야 한다는 점을 조사했습니다.
 - 호서대학교 공동 부스에서는 영문 포스터와 설명 자료를 사용해 연구 배경, 소재, 잉크젯 공정, 센서 적용 가능성을 관람객에게 전달하고 질문을 팀과 공유했습니다.
 
+## 문헌 조사와 학회 준비
+
+학회 준비 과정에서 소재 이름을 나열하는 데 그치지 않고, 유기반도체의 분자 구조와 전하 이동, 잉크젯 인쇄 조건, 유연 절연층과 가교가 소자 성능에 미치는 영향을 연결해 공부했습니다. 팀 멘토링 기록에 담긴 DPP 계열 p형 유기반도체, SBS 고분자 절연체, Bis-Azide 가교제와 잉크젯 공정 내용을 대표 선행연구와 대조해 연구 배경을 정리했습니다.
+
+### 주제별로 정리한 내용
+
+1. **DPP 고분자와 전하 수송** — DPP 계열 고분자의 이동도는 분자 골격과 곁사슬, 고체 상태의 분자 배열·박막 형태와 함께 달라집니다. 따라서 잉크로 만들 수 있는지뿐 아니라, 인쇄 후 고분자 사슬과 박막의 배열이 전하 이동에 어떻게 이어지는지를 핵심 질문으로 정리했습니다. [Nielsen, Turbiez & McCulloch, *Recent advances in the development of semiconducting DPP-containing polymers for transistor applications* (2013)](https://doi.org/10.1002/adma.201201795).
+
+2. **유연 기판 위 잉크젯 OTFT** — DPP 공중합체와 용액 공정 산화알루미늄 절연막을 폴리이미드 기판에 적용한 선행연구는 인쇄 소재·절연막·유연 기판을 하나의 소자 공정 관점에서 살펴볼 사례입니다. 이 논문에서 보고한 이동도(2.41 cm²/V·s)는 해당 연구의 결과이며, Team CLAP의 측정값이 아닙니다. [Kim et al., *High performance ink-jet printed diketopyrrolopyrrole-based copolymer thin-film transistors using a solution-processed aluminium oxide dielectric on a flexible substrate* (2013)](https://doi.org/10.1039/C3TC00718A).
+
+3. **잉크젯 박막과 건조 형태** — 액적 간격과 기판 젖음성, 용매 건조가 막 두께와 균일성에 영향을 줍니다. 커피링 효과도 언제나 제거해야 할 결함만은 아니며, 인쇄 조건에 따라 얇고 균일한 절연층 형성에 활용될 수 있다는 점을 검토했습니다. [Graddage et al., *Inkjet printed thin and uniform dielectrics for capacitors and organic thin film transistors enabled by the coffee ring effect* (2016)](https://doi.org/10.1016/j.orgel.2015.11.039).
+
+4. **UV 아자이드 가교와 절연층** — 아자이드 계열 가교제의 UV 반응은 고분자 층의 용매 저항성과 후속 공정 호환성을 높이는 설계에 활용됩니다. 가교 반응 자체뿐 아니라 누설전류, 히스테리시스, 계면과 소자 특성을 함께 확인해야 한다는 평가 관점을 정리했습니다. [Cho et al., *Universal three-dimensional crosslinker for all-photopatterned electronics* (2020)](https://doi.org/10.1038/s41467-020-15181-4).
+
+### 학습을 프로젝트 질문으로 연결
+
+- 점도·표면장력·토출 파형·액적 간격·기판 온도와 건조 조건이 인쇄 패턴 및 막 품질을 어떻게 바꾸는지
+- 반도체·절연체 계면과 가교 후 막의 상태가 누설·히스테리시스·전하 이동에 어떤 영향을 줄 수 있는지
+- 반복 인쇄와 반복 굽힘에서 패턴 및 센서 신호의 재현성을 어떻게 확인할지
+
+이 문헌 요약은 연구 배경과 실험 설계 관점을 설명하기 위한 것입니다. 프로젝트 기록상 실제 TFT 소자 제작과 센서 성능 측정은 후속 과제로 남아 있으므로, 위 논문들의 소자 성능 수치를 팀의 실험 결과로 제시하지 않았습니다. 참고 논문은 현재 확인 가능한 발표·멘토링 자료의 주제와 직접 관련된 대표 연구이며, 개인이 실제로 읽은 논문 목록과 일치하는지는 별도 확인이 필요합니다.
+
 ## 전시 자료
 
 <a href="../assets/finetech-2026-poster.png"><img src="../assets/finetech-2026-poster.png" width="500" alt="Team CLAP 전시 포스터" /></a>

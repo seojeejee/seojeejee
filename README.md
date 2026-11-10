@@ -60,6 +60,8 @@ YOLO11 객체 탐지와 다각형 안전구역 판정을 결합한 Jetson 엣지
 
 [연구 내용과 전시 참여 기록 자세히 보기](./projects/finetech-2026.md)
 
+학회 준비 과정에서 DPP 유기반도체의 전하 수송, 잉크젯 박막 형성, SBS 절연체와 아자이드 가교 관련 선행연구를 함께 검토하고, 소재·공정 이해를 실험 설계 질문으로 연결했습니다. [문헌 조사와 주제별 요약](./projects/finetech-2026.md#문헌-조사와-학회-준비)
+
 `Organic Electronics` `Inkjet Printing` `Flexible Sensors` `Industry-Academia Collaboration`
 
 ## Skills
