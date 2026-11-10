@@ -48,7 +48,8 @@ YOLO11 객체 탐지와 다각형 안전구역 판정을 결합한 Jetson 엣지
 
 - 필요한 위치에만 소재를 인쇄하는 **마스크 없는 직접 인쇄**와 재료 사용량 절감 개념 제시
 - 포토레지스트·식각액 접촉을 피하여 유기반도체 **계면 손상을 줄이는** 공정 설계 방향 정리
-- 반도체·절연체·전도체용 유연 유기 소재와 진공·용액 혼합 공정의 응용 가능성 소개
+- 잉크 점도·표면장력, 액적 간격, 기판 젖음성·건조 조건이 박막 균일도와 센서 재현성에 미치는 영향 검토
+- 전극·유전체·유기반도체층의 접착과 수분 유입, 반복 굽힘 시 균열·배선 문제를 실제 착용 조건에 맞춰 분석
 
 <p>
   <a href="./assets/finetech-2026-poster.png"><img src="./assets/finetech-2026-poster.png" width="260" alt="FINETECH JAPAN 2026 Team CLAP 전시 포스터" /></a>
@@ -56,6 +57,8 @@ YOLO11 객체 탐지와 다각형 안전구역 판정을 결합한 Jetson 엣지
 </p>
 
 전시 포스터는 연락처를 가린 사본입니다. [호서대학교 전시 부스 사진](./assets/finetech-2026-booth.png)도 참관 보고서에서 확인할 수 있습니다. 포스터 하단에는 ㈜클랩의 OTFT 응용 데모가 함께 실려 있습니다.
+
+[연구 내용과 전시 참여 기록 자세히 보기](./projects/finetech-2026.md)
 
 `Organic Electronics` `Inkjet Printing` `Flexible Sensors` `Industry-Academia Collaboration`
 
