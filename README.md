@@ -15,8 +15,8 @@
 | [MOVE AI · 길새김](https://github.com/seojeejee/MOVE-AI) | GPS·GeoJSON 처리, 관리자 검증 흐름, 웹 시연 | 팀 프로젝트의 구현 기여와 실행 가능한 데모 정리 |
 | [FINETECH · 로봇 센서 소재](./projects/finetech-2026.md) | 유기전자 소재·잉크젯 공정 학습, 산학 협업 | 연구 포스터와 전시 현장 자료 4종 |
 | [뉴스 진위 판별 RAG 챗봇](https://github.com/seojeejee/news-verification-rag-chatbot) | KoBERT·KcELECTRA, RAG 검색·요약, Flask API | 뉴스 12,559건 전처리와 공개용 코드 아카이브 |
-| [JKIT-128-1 임베디드 실험](https://github.com/seojeejee/jkit-128-embedded-labs) | AVR C, 외부 인터럽트, 타이머, 7-세그먼트·부저 | 주차별 실험과 2인 숫자 정지 게임 펌웨어 |
-| [Planty · 식물 환경 모니터링과 날씨 경보](https://github.com/seojeejee/planty-smart-plant-monitor) | Raspberry Pi, DHT11, GPIO, 날씨 API | 식물별 상태 판정과 LED·LCD·부저 경보 코드 |
+| [JKIT-128-1 실험 프로젝트 · 2인 숫자 정지 게임](https://github.com/seojeejee/jkit-128-embedded-labs) | AVR C, 외부 인터럽트, 타이머, 7-세그먼트·부저 | 주차별 실험과 2인 숫자 정지 게임 펌웨어 |
+| [라즈베리파이 실험 프로젝트 PLANTY : 식물 환경 모니터링과 기상 경보 시스템](https://github.com/seojeejee/planty-smart-plant-monitor) | Raspberry Pi, DHT11, GPIO, 날씨 API | 식물별 상태 판정과 LED·LCD·부저 경보 코드 |
 
 ### 01. 배터리 SOC 추정 · 산업 시계열 연구
 
@@ -70,9 +70,9 @@
 
 [코드와 프로젝트 설명](https://github.com/seojeejee/news-verification-rag-chatbot) · [교육과정 공식 소개](https://www.innovationacademy.kr/academy/board/read?boardManagementNo=2&boardNo=330&level=2&menuNo=16&page=&searchType=&searchWord=)
 
-### 06. JKIT-128-1 임베디드 실험 · 2인 숫자 정지 게임
+### 06. JKIT-128-1 실험 프로젝트 · 2인 숫자 정지 게임
 
-정규 실험에서 LED·스위치·부저·7-세그먼트와 외부 인터럽트·타이머 제어를 단계별로 익혔습니다. 기말 프로젝트에서는 두 플레이어가 증가하는 숫자를 버튼으로 멈추고 값을 비교해 먼저 4점을 얻는 게임을 AVR C로 구현했습니다.
+3-1 실험 텀프로젝트에서는 두 플레이어가 증가하는 숫자를 버튼으로 멈추고 값을 비교해 먼저 4점을 얻는 게임을 AVR C로 구현했습니다. 앞선 정규 실험에서 LED·스위치·부저·7-세그먼트와 외부 인터럽트·타이머 제어를 단계별로 익혔습니다.
 
 - **입출력:** 4자리 7-세그먼트 멀티플렉싱, LED 점수판, 두 개의 외부 인터럽트 버튼
 - **제어:** 버튼 디바운싱, 플레이어별 숫자 정지와 비교, 라운드·최종 승패 상태 관리
@@ -81,7 +81,7 @@
 
 [실험 노트북과 기말 프로젝트 코드](https://github.com/seojeejee/jkit-128-embedded-labs)
 
-### 07. Planty · 식물 환경 모니터링과 날씨 경보
+### 07. 라즈베리파이 실험 프로젝트 PLANTY : 식물 환경 모니터링과 기상 경보 시스템
 
 4-1 실험 텀프로젝트로, 식물 주변의 온도·습도를 읽어 식물 종류별 적정 범위와 비교하고 LED·LCD·부저로 상태를 알려주는 라즈베리파이 시스템을 구현했습니다. 버튼으로 다육이·관엽식물·허브 프로필을 선택할 수 있으며, 날씨 API 예보를 이용해 악천후와 온도 위험을 미리 표시하도록 구성했습니다.
 
