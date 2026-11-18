@@ -16,7 +16,7 @@
 | [FINETECH · 로봇 센서 소재](./projects/finetech-2026.md) | 유기전자 소재·잉크젯 공정 학습, 산학 협업 | 연구 포스터와 전시 현장 자료 4종 |
 | [뉴스 진위 판별 RAG 챗봇](https://github.com/seojeejee/news-verification-rag-chatbot) | KoBERT·KcELECTRA, RAG 검색·요약, Flask API | 뉴스 12,559건 전처리와 공개용 코드 아카이브 |
 | [JKIT-128-1 임베디드 실험](https://github.com/seojeejee/jkit-128-embedded-labs) | AVR C, 외부 인터럽트, 타이머, 7-세그먼트·부저 | 주차별 실험과 2인 숫자 정지 게임 펌웨어 |
-| [Planty · 4-1 실험 텀프로젝트](https://github.com/seojeejee/planty-smart-plant-monitor) | Raspberry Pi, DHT11, GPIO, 날씨 API | 식물별 상태 판정과 LED·LCD·부저 경보 코드 |
+| [Planty · 식물 환경 모니터링과 날씨 경보](https://github.com/seojeejee/planty-smart-plant-monitor) | Raspberry Pi, DHT11, GPIO, 날씨 API | 식물별 상태 판정과 LED·LCD·부저 경보 코드 |
 
 ### 01. 배터리 SOC 추정 · 산업 시계열 연구
 
@@ -81,9 +81,9 @@
 
 [실험 노트북과 기말 프로젝트 코드](https://github.com/seojeejee/jkit-128-embedded-labs)
 
-### 07. Planty · 4-1 실험 텀프로젝트
+### 07. Planty · 식물 환경 모니터링과 날씨 경보
 
-식물 주변의 온도·습도를 읽어 식물 종류별 적정 범위와 비교하고, LED·LCD·부저로 상태를 알려주는 라즈베리파이 프로젝트입니다. 버튼으로 다육이·관엽식물·허브 프로필을 선택할 수 있으며, 날씨 API 예보를 이용해 악천후와 온도 위험을 미리 표시하도록 구성했습니다.
+4-1 실험 텀프로젝트로, 식물 주변의 온도·습도를 읽어 식물 종류별 적정 범위와 비교하고 LED·LCD·부저로 상태를 알려주는 라즈베리파이 시스템을 구현했습니다. 버튼으로 다육이·관엽식물·허브 프로필을 선택할 수 있으며, 날씨 API 예보를 이용해 악천후와 온도 위험을 미리 표시하도록 구성했습니다.
 
 - **입력:** DHT11 온습도 센서, 프로필 이동·확정 버튼
 - **판정:** 프로필별 온도·습도 범위에 따른 3단계 상태와 스트레스 원인 분석
