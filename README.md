@@ -94,7 +94,7 @@
 - **출력:** 3색 LED, 16×2 LCD, 부저 경보 및 화면 상태 관리
 - **공개 범위:** 노션에 보관된 Python 코드와 설정, 프로필 선택·기상 경보 화면 시연 영상 2개를 공개했습니다. 하드웨어 실측 로그는 포함되지 않습니다.
 
-[프로젝트 코드와 실행 환경](https://github.com/seojeejee/planty-smart-plant-monitor) · [프로필 선택 영상](https://github.com/seojeejee/planty-smart-plant-monitor/blob/main/media/profile-selection-demo.mp4) · [기상 경보 화면 영상](https://github.com/seojeejee/planty-smart-plant-monitor/blob/main/media/weather-alert-demo.mp4)
+[프로젝트 코드와 실행 환경](https://github.com/seojeejee/planty-smart-plant-monitor) · [프로필 선택 영상 재생](https://seojeejee.github.io/planty-smart-plant-monitor/#profile) · [기상 경보 화면 영상 재생](https://seojeejee.github.io/planty-smart-plant-monitor/#alert)
 
 ## 기술과 적용 경험
 
