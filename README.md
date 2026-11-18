@@ -16,6 +16,7 @@
 | [FINETECH · 로봇 센서 소재](./projects/finetech-2026.md) | 유기전자 소재·잉크젯 공정 학습, 산학 협업 | 연구 포스터와 전시 현장 자료 4종 |
 | [뉴스 진위 판별 RAG 챗봇](https://github.com/seojeejee/news-verification-rag-chatbot) | KoBERT·KcELECTRA, RAG 검색·요약, Flask API | 뉴스 12,559건 전처리와 공개용 코드 아카이브 |
 | [JKIT-128-1 임베디드 실험](https://github.com/seojeejee/jkit-128-embedded-labs) | AVR C, 외부 인터럽트, 타이머, 7-세그먼트·부저 | 주차별 실험과 2인 숫자 정지 게임 펌웨어 |
+| [Planty · 4-1 실험 텀프로젝트](https://github.com/seojeejee/planty-smart-plant-monitor) | Raspberry Pi, DHT11, GPIO, 날씨 API | 식물별 상태 판정과 LED·LCD·부저 경보 코드 |
 
 ### 01. 배터리 SOC 추정 · 산업 시계열 연구
 
@@ -80,6 +81,17 @@
 
 [실험 노트북과 기말 프로젝트 코드](https://github.com/seojeejee/jkit-128-embedded-labs)
 
+### 07. Planty · 4-1 실험 텀프로젝트
+
+식물 주변의 온도·습도를 읽어 식물 종류별 적정 범위와 비교하고, LED·LCD·부저로 상태를 알려주는 라즈베리파이 프로젝트입니다. 버튼으로 다육이·관엽식물·허브 프로필을 선택할 수 있으며, 날씨 API 예보를 이용해 악천후와 온도 위험을 미리 표시하도록 구성했습니다.
+
+- **입력:** DHT11 온습도 센서, 프로필 이동·확정 버튼
+- **판정:** 프로필별 온도·습도 범위에 따른 3단계 상태와 스트레스 원인 분석
+- **출력:** 3색 LED, 16×2 LCD, 부저 경보 및 화면 상태 관리
+- **공개 범위:** 노션에 보관된 Python 코드와 설정을 정리했습니다. 하드웨어 실측 로그와 시연 영상은 저장소에 포함되지 않습니다.
+
+[프로젝트 코드와 실행 환경](https://github.com/seojeejee/planty-smart-plant-monitor)
+
 ## 기술과 적용 경험
 
 | 영역 | 사용 기술 | 적용 경험 |
@@ -88,7 +100,7 @@
 | 컴퓨터 비전·엣지 | YOLO11, OpenCV, TensorRT | 객체 탐지, 안전구역 판정, Jetson 배포 경로 |
 | 데이터·프로토타입 | JavaScript, GeoJSON, SQLite, Streamlit | 위치 데이터 처리, 관리자 검증 UI, 결과 시연 |
 | 자연어 처리·검색 | KoBERT, KcELECTRA, KoBART, RAG, Flask | 뉴스 분류, 관련 문서 검색·요약, API 시연 |
-| 임베디드 시스템 | AVR C, 외부 인터럽트, 타이머, 7-세그먼트 | JKIT 입출력 실험, 2인 게임 펌웨어 |
+| 임베디드 시스템 | AVR C, Python, Raspberry Pi GPIO, 센서·액추에이터 | JKIT 입출력 실험, 2인 게임 펌웨어, Planty 식물 상태 알림 |
 | 융합 연구 | 유기전자 소재, 잉크젯 공정 | 로봇 센서 소재 검토와 전시 자료 작성 |
 
 ## 자격
