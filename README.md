@@ -16,7 +16,7 @@
 | [FINETECH · 로봇 센서 소재](./projects/finetech-2026.md) | 유기전자 소재·잉크젯 공정 학습, 산학 협업 | 연구 포스터와 전시 현장 자료 4종 |
 | [뉴스 진위 판별 RAG 챗봇](https://github.com/seojeejee/news-verification-rag-chatbot) | KoBERT·KcELECTRA, RAG 검색·요약, Flask API | 뉴스 12,559건 전처리와 공개용 코드 아카이브 |
 | [JKIT-128-1 실험 프로젝트 · 2인 숫자 정지 게임](https://github.com/seojeejee/jkit-128-embedded-labs) | AVR C, 외부 인터럽트, 타이머, 7-세그먼트·부저 | 주차별 실험과 2인 숫자 정지 게임 펌웨어 |
-| [라즈베리파이 실험 프로젝트 PLANTY : 식물 환경 모니터링과 기상 경보 시스템](https://github.com/seojeejee/planty-smart-plant-monitor) | Raspberry Pi, DHT11, GPIO, 날씨 API | 식물별 상태 판정과 LED·LCD·부저 경보 코드 |
+| [라즈베리파이 실험 프로젝트 PLANTY : 식물 환경 모니터링과 기상 경보 시스템](https://github.com/seojeejee/planty-smart-plant-monitor) | Raspberry Pi, DHT11, GPIO, 날씨 API | 식물별 상태 판정 코드와 장치 시연 영상 2개 |
 
 ### 01. 배터리 SOC 추정 · 산업 시계열 연구
 
@@ -92,9 +92,9 @@
 - **입력:** DHT11 온습도 센서, 프로필 이동·확정 버튼
 - **판정:** 프로필별 온도·습도 범위에 따른 3단계 상태와 스트레스 원인 분석
 - **출력:** 3색 LED, 16×2 LCD, 부저 경보 및 화면 상태 관리
-- **공개 범위:** 노션에 보관된 Python 코드와 설정을 정리했습니다. 하드웨어 실측 로그와 시연 영상은 저장소에 포함되지 않습니다.
+- **공개 범위:** 노션에 보관된 Python 코드와 설정, 프로필 선택·기상 경보 화면 시연 영상 2개를 공개했습니다. 하드웨어 실측 로그는 포함되지 않습니다.
 
-[프로젝트 코드와 실행 환경](https://github.com/seojeejee/planty-smart-plant-monitor)
+[프로젝트 코드와 실행 환경](https://github.com/seojeejee/planty-smart-plant-monitor) · [프로필 선택 영상](https://github.com/seojeejee/planty-smart-plant-monitor/blob/main/media/profile-selection-demo.mp4) · [기상 경보 화면 영상](https://github.com/seojeejee/planty-smart-plant-monitor/blob/main/media/weather-alert-demo.mp4)
 
 ## 기술과 적용 경험
 
